@@ -5,4 +5,4 @@
 * Macarena Ivanisky
 * Manuel Bacolla
 * Matias Aguado
-* Gasto Boggino
+* Gastón Boggino
